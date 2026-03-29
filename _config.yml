@@ -1,65 +1,42 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://lothiandrones.co.uk
+baseurl: /
 
-# Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Lothian Drones
+email: lothiandrones@gmail.com
+description: "Lothian Drones delivers a full suite of aerial services, from business content creation to AI-powered roof inspections. We specialize in construction site progression, 2D mapping, and high-quality video, ensuring precise updates and stunning visuals."
 
-
-# Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  - name: Christopher Walton
+    pic: 1
+    position: Co-Founder & Director
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/christopher-walton-673783282
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  - name: Ross Turner
+    pic: 2
+    position: Co-Founder
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/ross-turner-b334a1212
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: https://www.instagram.com/lothiandrones
+  - title: linkedin
+    url: https://www.linkedin.com/in/christopher-walton-673783282
+  - title: linkedin
+    url: https://www.linkedin.com/in/ross-turner-b334a1212
 
-# Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: West Lothian, Scotland
 
-# Build settings
+services:
+  - Drone Photography
+  - AI Roof Inspections
+  - Construction Progress Tracking
+  - 2D Mapping
+  - Business Content Creation
+
 markdown: kramdown
 permalink: pretty
